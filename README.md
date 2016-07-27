@@ -6,8 +6,7 @@
 * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
 * 
 * We appreciate you citing our work if you use any part of the code or data:
-* Kasthuri Jayarajah, Meeralakshmi Radhakrishnan, Camellia Zakaria, Duplicate Issue Detection for the Android Open Source
-* Project, The 5th International Workshop on Software Mining co-located with ASE 2016 
+* Kasthuri Jayarajah, Meeralakshmi Radhakrishnan, Camellia Zakaria, Duplicate Issue Detection for the Android Open Source Project, The 5th International Workshop on Software Mining co-located with ASE 2016 
 * Feel free to contact the following people if you find any problems in the scraper:
 * kasthurij.2014@smu.edu.sg, meerakshm.2014@smu.edu.sg, ncamelliaz.2014@smu.edu.sg 
 * 
